@@ -18,5 +18,5 @@ This project was a collaborative commission for a jcink roleplaying website, Sin
 *Create a system for removing inactive characters from the page, without loosing their descriptions<br>
 *Allow site members to add their characters to the clan without having to contact a staff member<br>
 
-##Link to website
+## Link to website
 http://sinisterhaven.com/
