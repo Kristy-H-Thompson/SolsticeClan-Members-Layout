@@ -18,5 +18,8 @@ This project was a collaborative commission for a jcink roleplaying website, Sin
 *Create a system for removing inactive characters from the page, without loosing their descriptions<br>
 *Allow site members to add their characters to the clan without having to contact a staff member<br>
 
+## Important Note
+The SolsticeClanAppScript file does not go onto your html page. Instead it is placed on the google sheet's appscript extentsion and deployed as a web app. Make sure that when setting your permissions, you select everyone in the permissions section. 
+
 ## Link to website
 http://sinisterhaven.com/
